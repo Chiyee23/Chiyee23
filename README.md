@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Chiyee 👋
 
-<!--
-**Chiyee23/Chiyee23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science undergraduate currently seeking an internship opportunity in software development, artificial intelligence, data, or related fields.
 
-Here are some ideas to get you started:
+## 🛠️ Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Programming:** Python, Java, C++
+* **Web:** HTML5, CSS3, JavaScript
+* **Database:** SQL, MySQL, Microsoft Access
+* **Tools & Technologies:** Git, GitHub, AWS, Godot
+
+## 📌 Projects
+
+### 🚦 Traffic Sign Detection System
+
+Computer vision project using Python and image processing techniques to detect traffic signs.
+
+**Technologies:** Python, OpenCV, Computer Vision
+
+### 🗄️ Database Booking System
+
+A database application designed to manage booking-related information using relational database concepts.
+
+**Technologies:** SQL, Database Development
+
+### 📦 Java Stock Management System
+
+A stock management application developed using object-oriented programming principles.
+
+**Technologies:** Java, JavaFX, OOP
+
+### 🌳 Data Structure Project
+
+Implementation and application of fundamental data structures and algorithms.
+
+**Technologies:** C++
+
+## 📚 Currently Learning
+
+* Artificial Intelligence Techniques
+* Front-end Web Development
+* Software Engineering Principles
+
+## 📫 Contact
+
+* GitHub: [@Chiyee23](https://github.com/Chiyee23)
