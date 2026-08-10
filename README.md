@@ -13,13 +13,13 @@ I'm a Computer Science undergraduate currently seeking an internship opportunity
 
 ### 🚦 Traffic Sign Detection System
 
-Computer vision project using Python and image processing techniques to detect traffic signs.
+A computer vision project for detecting traffic signs using Python and image processing techniques.
 
-**Technologies:** Python, OpenCV, Computer Vision
+**Technologies:** Python, OpenCV, HSV Colour Segmentation, Morphological Operations, Contour Detection
 
 ### 🗄️ Database Booking System
 
-A database application designed to manage booking-related information using relational database concepts.
+A relational database project for managing booking-related information and performing database operations.
 
 **Technologies:** SQL, Database Development
 
@@ -31,9 +31,9 @@ A stock management application developed using object-oriented programming princ
 
 ### 🌳 Data Structure Project
 
-Implementation and application of fundamental data structures and algorithms.
+An implementation of fundamental data structures and algorithms using C++.
 
-**Technologies:** C++
+**Technologies:** C++, Linked Lists, Queues, Binary Search Trees
 
 ## 📚 Currently Learning
 
