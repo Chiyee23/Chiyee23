@@ -7,7 +7,7 @@ I'm a Computer Science undergraduate currently seeking an internship opportunity
 * **Programming:** Python, Java, C++
 * **Web:** HTML5, CSS3, JavaScript
 * **Database:** SQL, MySQL, Microsoft Access
-* **Tools & Technologies:** Git, GitHub, AWS, Godot
+* **Tools & Technologies:** GitHub, AWS, Godot
 
 ## 📌 Projects
 
