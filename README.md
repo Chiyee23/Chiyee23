@@ -9,7 +9,7 @@ I'm a Computer Science undergraduate currently seeking an internship opportunity
 * **Database:** SQL, MySQL, Microsoft Access
 * **Tools & Technologies:** GitHub, AWS, Godot
 
-## 📌 Projects
+## 📌 Academic Projects
 
 ### 🚦 Traffic Sign Detection System
 
