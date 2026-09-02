@@ -55,4 +55,7 @@ An implementation of fundamental data structures and algorithms using C++.
 
 ## 📫 Contact
 
+- Gmail: chiyee23@gmail.com
+- LinkIn: [@Chi Yee Wong](https://www.linkedin.com/in/chiyeewong/)
 - GitHub: [@Chiyee23](https://github.com/Chiyee23)
+
